@@ -1,3 +1,14 @@
 body {
   background-color: #af1e5b;
 }
+
+.header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 20px;
+}
